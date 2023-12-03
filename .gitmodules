@@ -1,0 +1,6 @@
+[submodule "web-app"]
+	path = web-app
+	url = https://github.com/Ale-Coeto/IOT_webapp.git
+[submodule "face-recognition"]
+	path = face-recognition
+	url = https://github.com/Ale-Coeto/IOT_face_recognition.git
