@@ -51,7 +51,7 @@ _Database may be down after some time_
 
 # Development team
 
-| Name                  | Email     |
+| Name                  | Github     |
 | --------------------- | --------- |
 | Roberto Gómez | |
 | Diego Govea | |
