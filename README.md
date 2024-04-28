@@ -40,7 +40,7 @@ For instant communication, AWS Websocket API Gateway was used, establishing seve
 </br>
 
 # Check it out
-- [Webapp](iot-security-system.vercel.app)
+- [Webapp](https://iot-security-system.vercel.app)
 - [Demo video](https://youtu.be/4bw-oJFjs5E)
 - [Poster](https://drive.google.com/file/d/1fKxKSY9jASYbpcnpqm5yKVu9zmmycmgy/view?usp=sharing)
 - [Report](https://drive.google.com/file/d/1k9zNSgABw7f5123p5nHLYBX5CJaQDszs/view?usp=sharing)
