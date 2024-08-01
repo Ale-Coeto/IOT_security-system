@@ -40,12 +40,14 @@ For instant communication, AWS Websocket API Gateway was used, establishing seve
 </br>
 
 # Check it out
-- [Webapp](https://iot-security-system.vercel.app)
+- [Webapp (vercel)](https://iot-security-system.vercel.app)
 - [Demo video](https://youtu.be/4bw-oJFjs5E)
 - [Poster](https://drive.google.com/file/d/1fKxKSY9jASYbpcnpqm5yKVu9zmmycmgy/view?usp=sharing)
 - [Report](https://drive.google.com/file/d/1k9zNSgABw7f5123p5nHLYBX5CJaQDszs/view?usp=sharing)
+- [Webapp repo with images](https://github.com/Ale-Coeto/IOT_webapp)
+- [Python API repo](https://github.com/Ale-Coeto/IOT_face_recognition)
   
-_Database may be down after some time_
+_Database may be down after some time, auth won't work in such case_
 
 </br>
 
